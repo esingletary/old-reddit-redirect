@@ -1,0 +1,16 @@
+{
+  "name": "old-reddit-redirect",
+  "version": "1.0.0",
+  "description": "Redirect a subreddit name to the old version of the subreddit",
+  "main": "app.js",
+  "repository": "https://github.com/esingletary/old-reddit-redirect.git",
+  "author": "Emmanuel Singletary <me@manny.co>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
